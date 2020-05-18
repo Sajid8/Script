@@ -1,2 +1,4 @@
-# Script
-Jquery Inject
+Sample Chrome Extension
+============
+
+Using JQuery
